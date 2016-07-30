@@ -1,0 +1,48 @@
+.main
+{
+  color: white;
+  width: 350px;
+  padding: 40px;
+  height: 400px;
+  border: 10%;
+  background-color: #0CB68B;
+  margin: 60px auto;
+  border-radius: 4%;
+  box-shadow: 0px 0px 10px 1px #0CB68B;
+}
+form{
+  margin-top: 50px;
+}
+form input{
+  width: 350px;
+  height: 40px;
+  border: none;
+  margin: 10px 0 20px;
+  float: left;
+  color:#0CB68B;
+  font-size: 20px;
+  background-color: white;
+}
+p{
+  height: 25px;
+  padding: 3px;
+  background-color: red;
+  font-size: 18px;
+  font-family: georgia;
+
+  display:none;
+}
+.mya
+{
+  width: 350px;
+  height: 30px;
+  border: none;
+  margin: 10px 0 20px;
+  float: left;
+  color:#0CB68B;
+  font-size: 20px;
+  background-color: white;
+  text-decoration: none;
+  text-align: center;
+  padding: 5px;
+}
